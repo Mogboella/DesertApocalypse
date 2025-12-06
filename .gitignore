@@ -45,13 +45,10 @@ build/**
 
 external/**
 
-!code/assets/models/
-!code/assets/models/.gitkeep
-
-!code/assets/textures/
-!code/assets/textures/.gitkeep
-
 .vscode/**
 
 code/assets/models/**
 code/assets/textures/**
+
+!code/assets/models/.gitkeep
+!code/assets/textures/.gitkeep
