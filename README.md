@@ -74,3 +74,5 @@ Run from the repo root so relative asset paths resolve; the build step copies sh
 - Ruined City: eucalyp555 — https://skfb.ly/o68xn (Sketchfab).
 - Post-apocalyptic buildings (ruined skyscraper cluster): Helindu — https://skfb.ly/otBXq (Sketchfab).
 - Cactus: upeglnf951 — https://skfb.ly/oGy9w (Sketchfab).
+
+*This project is my submission for the TCD Computer Graphics Individual Project 2025/26 MSc Computer Science - AR/VR*
