@@ -8,6 +8,14 @@ This project shows an OpenGL real-time scene of a desert colony under siege: a l
 - Dynamic lighting (directional + togglable point/spot lights), day/night transition, and head-bobbed first-person camera tied to terrain height.
 - Asset packaging in CMake post-build steps copies shaders, textures, and models into the build output for immediate execution.
 
+## Demo 
+
+Here's a walkthrough : __[Click to Watch the Demo](https://youtu.be/iSJMS5IfNHs?si=nPJ0QSoxSOVauhGU)__
+
+<img width="1467" height="919" alt="Screenshot 2025-12-06 at 7 47 53 PM" src="https://github.com/user-attachments/assets/672e1064-49e1-425b-a5cd-de36d8c5399c" />
+
+<img width="1470" height="956" alt="Screenshot 2025-12-06 at 7 42 31 PM" src="https://github.com/user-attachments/assets/1cc21ae8-3333-49a3-9bba-d30398d6ce33" />
+
 ## Repository Layout
 - `code/src` - Application entry point, renderer, environment/terrain manager, animation, and scene setup.
 - `code/assets` - Models, textures, and GLSL shaders referenced at runtime (see Asset Setup below).
